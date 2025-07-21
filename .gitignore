@@ -1,0 +1,7 @@
+# Node.js backend (server/)
+server/node_modules/
+server/.env
+
+# React frontend (client/)
+client/node_modules/
+client/.env
